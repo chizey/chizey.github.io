@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+body {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	background-color: #b6e8aa;
+}
+div {
+	background-color: #c0dec5;
+	margin: 4em;
+	border: 10px black solid;
+}
+h1 {
+background-color: white;
+}
+#slogan {
+	font-family: 'Playfair Display', serif, small-caps;
+	font-size: 20px;
+	font-style: italic;
+}
+#contact {
+	text-align: center;
+	font-size: 12px;
+}
+ul {
+	text-align: left;
+	font-size: 2em;
+	font-family: 'Playfair Display', serif;
+	line-height: 1.5em;
+}
+span {
+	font-variant: small-caps;
+}
+#wrapper {
+	background-color: #660033
+	width:960px;
+	margin: 0 auto;
+}
